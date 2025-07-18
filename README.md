@@ -15,7 +15,7 @@ This project uses **unsupervised machine learning** techniques to group Netflix 
 
 ## 📂 Dataset
 
-- **Source**: [Netflix Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
 - **Size**: ~8800+ titles
 - **Fields**: Title, Genre, Description, Cast, Country, Release Year, Duration, Type
 
